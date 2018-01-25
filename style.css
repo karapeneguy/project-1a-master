@@ -1,8 +1,6 @@
 
 body{
     margin: 0;
-    overflow: hidden;
-    
 }
 
 
@@ -15,6 +13,18 @@ h1{
     
 
 }
+
+h2{
+   font-family: 'Bungee Inline', cursive;
+
+    font-size: 35pt;
+    background-color: rgba(255,255,255,.5);
+    text-align: center;
+    
+
+}
+
+
 
 
 
@@ -274,5 +284,48 @@ li:hover {
 }
 
 
+.pattern{
+
+   width: 13vw;
+    height: 13vw;
+    border: 2px solid black;
+    margin-left: 2.1vw;
+    display: inline-block;
+    
+}
+
+.imagegallery{
+    
+    display: inline-block;
+    align-content: center;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
 
 
+.fashionimagegallery6
+{
+    
+    display: inline-block;
+    align-content: center;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+
+#mensfashion60{
+height: 655px;
+    padding-left: 10px;
+
+    width: 600px;
+  
+}
+
+#womensfasion70s{
+    width: 20px;
+    height: 20px;
+}
