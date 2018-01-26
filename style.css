@@ -393,3 +393,9 @@ height: 655px;
     width: 650px;
     margin-left: 30px;
 }
+
+
+.video{
+    position:absolute;
+    width: 1100px;
+}
