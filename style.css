@@ -396,8 +396,15 @@ height: 655px;
 
 
 .video{
-    width: 1100px;
-    height: 600px;
+    width: 70vw;
+    height: 65vh;
    margin-bottom: 150px;
+    margin-left: 12.5vw;
+    margin-right: 12.5w;
    
 }
+
+.videodiv{
+    
+}
+
