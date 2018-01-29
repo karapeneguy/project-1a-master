@@ -24,6 +24,9 @@ h2{
 
 }
 
+h1:hover{
+    font-size: 100px;
+}
 
 
 
@@ -80,6 +83,7 @@ li a {
 li:last-child {
     border-right: none;
 }
+
 li:hover {
     background-color: #111;
 }
@@ -104,6 +108,12 @@ li:hover {
     border: 2px solid black;
     margin-left: 2.1vw;
     display: inline-block;
+    
+    
+}
+
+.pantone:hover{
+    border: 3px solid black;
     
     
 }
@@ -407,4 +417,12 @@ height: 655px;
 .videodiv{
     
 }
+
+
+iframe:hover{
+    width: 1300px;
+    height: 650px;
+    margin-left: 5vw;
+}
+
 
