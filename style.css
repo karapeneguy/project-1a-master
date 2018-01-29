@@ -24,9 +24,6 @@ h2{
 
 }
 
-h1:hover{
-    font-size: 100px;
-}
 
 
 
@@ -86,6 +83,12 @@ li:last-child {
 
 li:hover {
     background-color: #111;
+    font-size: 40pt;
+    color: pink;
+}
+
+a:active{
+    color: red;
 }
 
 
